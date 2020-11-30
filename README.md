@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-#### I'm a Data/DevOps Engineer working in London, UK.
+#### I'm an Infrastructure Engineer working in London, UK.
 
 - 🏢 I'm currently working at **Sony Interactive Entertainment**
 - ⚙️ I use daily: `.go`, `.py`, `.ts`, `.tf`, `.yaml`

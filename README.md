@@ -1,6 +1,6 @@
 <img align=right src="https://github.com/2n3g5c9/2n3g5c9/blob/main/myself.png" width=350>
 
-## Hello, I'm Marc 👨🏻‍💻
+## Hi there, I'm Marc 👨🏻‍💻
 
 I'm a **Data & DevOps Engineer** from London, UK (formerly Paris, France).
 

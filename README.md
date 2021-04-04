@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Marc 👨🏻‍💻
 
-I'm a **Data & DevOps Engineer** from London, UK (formerly Paris, France).
+I'm a **Data & DevOps Engineer** from London 🇬🇧 (formerly Paris 🇫🇷).
 
 - 🏢 I'm currently working at **Sony Interactive Entertainment**
 - ⚙️ I use daily: `.go`, `.py`, `.ts`, `.tf`, `.yaml`
@@ -11,5 +11,6 @@ I'm a **Data & DevOps Engineer** from London, UK (formerly Paris, France).
 
 ### Other places you can reach me
 
+- 🌐 [marcm.dev](https://www.marcm.dev/)
 - 💼 [linkedin](https://linkedin.com/in/marc-molina)
 - 🔑 [keybase](https://keybase.io/2n3g5c9)

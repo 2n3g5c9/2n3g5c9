@@ -1,16 +1,14 @@
-<img align=right src="https://github.com/2n3g5c9/2n3g5c9/blob/main/myself.png" width=350>
 
-## Hi there, I'm Marc 👨🏻‍💻
+# Hey there, welcome! 🖖
 
-I'm a **Data & DevOps Engineer** from London 🇬🇧 (formerly Paris 🇫🇷).
+<img align=right src="character.svg" width=125 style="margin-top:10px; margin-left:50px;">
 
-- 🏢 I'm currently working at **Sony Interactive Entertainment**
+🌐 [marcm.dev](https://www.marcm.dev/) • 💼 [linkedin](https://linkedin.com/in/marc-molina) • 🔑 [keybase](https://keybase.io/2n3g5c9)
+
+I'm a **Data & DevOps Engineer** from London 🇬🇧 (formerly Paris 🇫🇷) currently focusing on delivering secure and reliable systems at scale. 
+
+Most of my current side-projects are private for now (sorry), but I might open-source them at some point!
+
 - ⚙️ I use daily: `.go`, `.py`, `.ts`, `.tf`, `.yaml`
 - 💬 Ping me about: **data**, **devops**, **sre**, **infrastructure**
 - 📫 Reach me at: [contact@marcm.dev](mailto:contact@marcm.dev)
-
-### Other places you can reach me
-
-- 🌐 [marcm.dev](https://www.marcm.dev/)
-- 💼 [linkedin](https://linkedin.com/in/marc-molina)
-- 🔑 [keybase](https://keybase.io/2n3g5c9)

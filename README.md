@@ -5,7 +5,7 @@
 
 🌐 [marcm.dev](https://www.marcm.dev/) • 💼 [linkedin](https://linkedin.com/in/marc-molina) • 🔑 [keybase](https://keybase.io/2n3g5c9)
 
-I'm a **Data & DevOps Engineer** from London 🇬🇧 (formerly Paris 🇫🇷) currently focusing on delivering secure and reliable systems at scale. 
+I'm a **DevOps/SRE Engineer** from London 🇬🇧 (formerly Paris 🇫🇷) currently focusing on delivering secure and reliable systems at scale. 
 
 Most of my current side-projects are private for now (sorry), but I might open-source them at some point!
 
